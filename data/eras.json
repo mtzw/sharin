@@ -1,0 +1,7 @@
+{
+    "M" : {"previousYear" : "1867", "name" : "明治", "firstDay" : "19680125", "lastDay" : "19120729"},
+    "T" : {"previousYear" : "1911", "name" : "大正", "firstDay" : "19120730", "lastDay" : "19261224"},
+    "S" : {"previousYear" : "1925", "name" : "昭和", "firstDay" : "19261225", "lastDay" : "19890107"},
+    "H" : {"previousYear" : "1988", "name" : "平成", "firstDay" : "19890108", "lastDay" : "20181231"},
+    "N" : {"previousYear" : "2018", "name" : "次",   "firstDay" : "20190101", "lastDay" : ""}
+}
